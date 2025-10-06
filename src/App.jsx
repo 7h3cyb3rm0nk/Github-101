@@ -20,7 +20,7 @@ const App = () => {
         Msc AI 2nd year           
          </UserProfile>     
            
-/* { use the above template and create add your data  }*/
+/*  use the above template and create add your data  */
     <UserProfile name="Ramees" image="/images/ramees.jpg" >
       Msc AI 1st year
     </UserProfile>
