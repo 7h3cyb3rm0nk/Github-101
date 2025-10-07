@@ -18,7 +18,10 @@ const App = () => {
       
        <UserProfile name="Akshay" image= "/images/akshay.jpg">
         Msc AI 2nd year           
-         </UserProfile>     
+         </UserProfile>   
+       <UserProfile name="Adithyan" image= "/images/adi.jpg">
+        Msc AI 1        
+         </UserProfile>
            
 {/* use the above template and create add your data */}
 
